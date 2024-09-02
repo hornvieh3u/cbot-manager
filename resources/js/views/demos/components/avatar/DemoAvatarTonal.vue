@@ -1,0 +1,40 @@
+<template>
+  <div class="demo-space-x">
+    <VAvatar
+      color="primary"
+      variant="tonal"
+    >
+      <span>PI</span>
+    </VAvatar>
+    <VAvatar
+      color="secondary"
+      variant="tonal"
+    >
+      <span>SE</span>
+    </VAvatar>
+    <VAvatar
+      color="success"
+      variant="tonal"
+    >
+      <span>SU</span>
+    </VAvatar>
+    <VAvatar
+      color="info"
+      variant="tonal"
+    >
+      <span>IN</span>
+    </VAvatar>
+    <VAvatar
+      color="warning"
+      variant="tonal"
+    >
+      <span>WA</span>
+    </VAvatar>
+    <VAvatar
+      color="error"
+      variant="tonal"
+    >
+      <span>ER</span>
+    </VAvatar>
+  </div>
+</template>
